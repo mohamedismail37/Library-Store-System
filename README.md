@@ -11,7 +11,7 @@
 - [Project Description](#project-description)
   - [Overview](#overview)
   - [Objectives](#objectives)
-  - [Tools and Framework](# tools-and-framework)
+  - [Tools and Framework](#tools-and-framework)
 - [Features](#features)
   - [Guest Functionalities](#guest-functionalities)
   - [General User Functionalities](#general-user-functionalities)
