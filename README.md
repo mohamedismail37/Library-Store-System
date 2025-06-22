@@ -74,8 +74,6 @@ It simulates real-world operations, and it simulates a hybrid system that combin
 
 Below are selected screenshots showcasing key features of the Library Store System.
 
->  All screenshots are available in the [`assets/`](assets/) folder.
-
 ---
 
 ###  Main Menu & Navigation
@@ -106,7 +104,7 @@ Below are selected screenshots showcasing key features of the Library Store Syst
 
 - **Search By Filters(Price)**
   
-  ![Search By Filters(Price)](assets/SearchByFilter_Price_.png)
+  ![Search By Filters(Price)](assets/SearchByFilters_Price_.png)
 
 - **Book Card (As a User)**
   
