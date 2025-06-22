@@ -10,8 +10,8 @@
 
 - [Project Description](#project-description)
   - [Overview](#overview)
-  - [Objectivies](#objectivies)
-  - [Tools & Framwork](#tools-and-framwork)
+  - [Objectives](#objectives)
+  - [Tools and Framework](# tools-and-framework)
 - [Features](#features)
   - [Guest Functionalities](#guest-functionalities)
   - [General User Functionalities](#general-user-functionalities)
@@ -41,7 +41,7 @@ It simulates real-world operations, and it simulates a hybrid system that combin
 
 ## Features
 
-### - Guest Functionalities
+###  Guest Functionalities
 - **Register** as a new client with strong validation for Information
 - **Login** as a past user
 - **View** Products lists (Books & Accessories)
@@ -54,7 +54,7 @@ It simulates real-world operations, and it simulates a hybrid system that combin
 
 ---
 
-### - General User Functionalities
+###  General User Functionalities
 - **Login** and Logout Screen.
 - **Access** to buy books or accessories.
 - **Show** Books and Accessories bought in the cart.
@@ -63,7 +63,7 @@ It simulates real-world operations, and it simulates a hybrid system that combin
 
 ---
 
-### - Admin Functionalities
+###  Admin Functionalities
 - **Show** the total balance of the sold products *books or accessories**.
 - **Currency Convert** from USD to EGP.
 - **Login** and Logout Screen.
