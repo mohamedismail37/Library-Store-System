@@ -72,6 +72,73 @@ It simulates real-world operations, and it simulates a hybrid system that combin
 
 ## Screenshots
 
+Below are selected screenshots showcasing key features of the Library Store System.
+
+>  All screenshots are available in the [`assets/`](assets/) folder.
+
+---
+
+###  Main Menu & Navigation
+
+- **Change Theme**
+  
+  ![Change Theme](assets/ChangeTheme.png)
+
+- **Login Page**
+  
+  ![Login Page](assets/LoginPage.png)
+
+- **User Cart**
+  
+  ![User Cart](assets/UserCart.png)
+
+---
+
+###  Book Management
+
+- **Books List**
+  
+  ![Books List](assets/BooksList.png)
+
+- **Search For A Book**
+  
+  ![Search For A Book](assets/SearchForBook.png)
+
+- **Search By Filters(Price)**
+  
+  ![Search By Filters(Price)](assets/SearchByFilter_Price_.png)
+
+- **Book Card (As a User)**
+  
+  ![Book Card (As a User)](assets/UserBookCard.png)
+
+---
+
+###  Accessories & etc
+
+- **Accessories List**
+  
+  ![Accessories List](assets/AccessoriesList.png)
+
+- **Accessory Card(As A User)**
+  
+  ![Accessory Card(As A User)](assets/UserAccessoryCard.png)
+
+- **Admin Dashboard**
+  
+  ![Admin Dashboard](assets/AdminDashboard.png)
+
+- **Buy Item (As Guest)**
+  
+  ![Buy Item (As Guest)](assets/BuyItemAsGuest.png)
+
+- **Checkout**
+  
+  ![Checkout](assets/Checkout.png)
+
+---
+
+>  *For all screenshots, view the full folder: [`assets/`](assets/)*
 
 ---
 
@@ -80,7 +147,3 @@ It simulates real-world operations, and it simulates a hybrid system that combin
 *LinkedIn:* linkedin.com/in/mohamed-ismail-fh
 
 *Email:* mohamedismailfh@gmail.com
-
-
-
-
