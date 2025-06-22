@@ -1,6 +1,6 @@
 # Library-Store-System
-## This is a hybrid **Library & Bookstore Management System** developed in **C++** using **Object-Oriented Programming (OOP)**.  
-## It features a fully interactive **console-based UI** with multiple screens, user roles, and frequent data handling.
+### This is a hybrid **Library & Bookstore Management System** developed in **C++** using **Object-Oriented Programming (OOP)**.  
+### It features a fully interactive **console-based UI** with multiple screens, user roles, and frequent data handling.
 
 // Video
 
@@ -32,7 +32,7 @@ It simulates real-world operations, and it simulates a hybrid system that combin
 - Utilize **modular architecture** to separate UI logic (screens), core business models (entities), and utilities.
 - Practice **input validation**, **file handling**, and layered system design in a real-world context.
 
-## Tools and Frameworks
+## Tools and Framework
 - **C++**
 - **Object-Oriented Programming (OOP)**
 - **File I/O**
@@ -78,6 +78,7 @@ It simulates real-world operations, and it simulates a hybrid system that combin
 ## Author
 **Mohamed Ismail**  
 *LinkedIn:* linkedin.com/in/mohamed-ismail-fh
+
 *Email:* mohamedismailfh@gmail.com
 
 
