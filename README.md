@@ -2,7 +2,11 @@
 ### This is a hybrid **Library & Bookstore Management System** developed in **C++** using **Object-Oriented Programming (OOP)**.  
 ### It features a fully interactive **console-based UI** with multiple screens, user roles, and frequent data handling.
 
-// Video
+---
+
+##  Demo Video
+
+ [Watch the full video demo on YouTube](https://youtu.be/7x-1nLSwUWs?si=ik21y7c5U6LjaBVE)
 
 ---
 
