@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C66768E9-18BB-4A63-B430-4FDAEC78C4B0}|Library-Management-System (LMS)\\Library-Management-System (LMS).vcxproj|C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\CartScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C66768E9-18BB-4A63-B430-4FDAEC78C4B0}|Library-Management-System (LMS)\\Library-Management-System (LMS).vcxproj|solutionrelative:Library-Management-System (LMS)\\CartScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66768E9-18BB-4A63-B430-4FDAEC78C4B0}|Library-Management-System (LMS)\\Library-Management-System (LMS).vcxproj|C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\LMSfileMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C66768E9-18BB-4A63-B430-4FDAEC78C4B0}|Library-Management-System (LMS)\\Library-Management-System (LMS).vcxproj|solutionrelative:Library-Management-System (LMS)\\LMSfileMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66768E9-18BB-4A63-B430-4FDAEC78C4B0}|Library-Management-System (LMS)\\Library-Management-System (LMS).vcxproj|C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\MyString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C66768E9-18BB-4A63-B430-4FDAEC78C4B0}|Library-Management-System (LMS)\\Library-Management-System (LMS).vcxproj|solutionrelative:Library-Management-System (LMS)\\MyString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66768E9-18BB-4A63-B430-4FDAEC78C4B0}|Library-Management-System (LMS)\\Library-Management-System (LMS).vcxproj|C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\InputAndOutput.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C66768E9-18BB-4A63-B430-4FDAEC78C4B0}|Library-Management-System (LMS)\\Library-Management-System (LMS).vcxproj|solutionrelative:Library-Management-System (LMS)\\InputAndOutput.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66768E9-18BB-4A63-B430-4FDAEC78C4B0}|Library-Management-System (LMS)\\Library-Management-System (LMS).vcxproj|C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\GlobalVariables.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C66768E9-18BB-4A63-B430-4FDAEC78C4B0}|Library-Management-System (LMS)\\Library-Management-System (LMS).vcxproj|solutionrelative:Library-Management-System (LMS)\\GlobalVariables.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66768E9-18BB-4A63-B430-4FDAEC78C4B0}|Library-Management-System (LMS)\\Library-Management-System (LMS).vcxproj|C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\DateAndTime.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C66768E9-18BB-4A63-B430-4FDAEC78C4B0}|Library-Management-System (LMS)\\Library-Management-System (LMS).vcxproj|solutionrelative:Library-Management-System (LMS)\\DateAndTime.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66768E9-18BB-4A63-B430-4FDAEC78C4B0}|Library-Management-System (LMS)\\Library-Management-System (LMS).vcxproj|C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\WelcomeScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C66768E9-18BB-4A63-B430-4FDAEC78C4B0}|Library-Management-System (LMS)\\Library-Management-System (LMS).vcxproj|solutionrelative:Library-Management-System (LMS)\\WelcomeScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66768E9-18BB-4A63-B430-4FDAEC78C4B0}|Library-Management-System (LMS)\\Library-Management-System (LMS).vcxproj|C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\Start.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C66768E9-18BB-4A63-B430-4FDAEC78C4B0}|Library-Management-System (LMS)\\Library-Management-System (LMS).vcxproj|solutionrelative:Library-Management-System (LMS)\\Start.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66768E9-18BB-4A63-B430-4FDAEC78C4B0}|Library-Management-System (LMS)\\Library-Management-System (LMS).vcxproj|C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\Screen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C66768E9-18BB-4A63-B430-4FDAEC78C4B0}|Library-Management-System (LMS)\\Library-Management-System (LMS).vcxproj|solutionrelative:Library-Management-System (LMS)\\Screen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66768E9-18BB-4A63-B430-4FDAEC78C4B0}|Library-Management-System (LMS)\\Library-Management-System (LMS).vcxproj|C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\MainMenuScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C66768E9-18BB-4A63-B430-4FDAEC78C4B0}|Library-Management-System (LMS)\\Library-Management-System (LMS).vcxproj|solutionrelative:Library-Management-System (LMS)\\MainMenuScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66768E9-18BB-4A63-B430-4FDAEC78C4B0}|Library-Management-System (LMS)\\Library-Management-System (LMS).vcxproj|C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\LoginAndSignUpScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C66768E9-18BB-4A63-B430-4FDAEC78C4B0}|Library-Management-System (LMS)\\Library-Management-System (LMS).vcxproj|solutionrelative:Library-Management-System (LMS)\\LoginAndSignUpScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66768E9-18BB-4A63-B430-4FDAEC78C4B0}|Library-Management-System (LMS)\\Library-Management-System (LMS).vcxproj|C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\AdminDashboardScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C66768E9-18BB-4A63-B430-4FDAEC78C4B0}|Library-Management-System (LMS)\\Library-Management-System (LMS).vcxproj|solutionrelative:Library-Management-System (LMS)\\AdminDashboardScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LMSfileMain.cpp",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\LMSfileMain.cpp",
+              "RelativeDocumentMoniker": "Library-Management-System (LMS)\\LMSfileMain.cpp",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\LMSfileMain.cpp",
+              "RelativeToolTip": "Library-Management-System (LMS)\\LMSfileMain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-22T03:41:59.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyString.h",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\MyString.h",
+              "RelativeDocumentMoniker": "Library-Management-System (LMS)\\MyString.h",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\MyString.h",
+              "RelativeToolTip": "Library-Management-System (LMS)\\MyString.h",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-22T03:41:49.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputAndOutput.h",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\InputAndOutput.h",
+              "RelativeDocumentMoniker": "Library-Management-System (LMS)\\InputAndOutput.h",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\InputAndOutput.h",
+              "RelativeToolTip": "Library-Management-System (LMS)\\InputAndOutput.h",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-22T03:41:43.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GlobalVariables.h",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\GlobalVariables.h",
+              "RelativeDocumentMoniker": "Library-Management-System (LMS)\\GlobalVariables.h",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\GlobalVariables.h",
+              "RelativeToolTip": "Library-Management-System (LMS)\\GlobalVariables.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-22T03:41:39.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DateAndTime.h",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\DateAndTime.h",
+              "RelativeDocumentMoniker": "Library-Management-System (LMS)\\DateAndTime.h",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\DateAndTime.h",
+              "RelativeToolTip": "Library-Management-System (LMS)\\DateAndTime.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-22T03:41:34.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WelcomeScreen.h",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\WelcomeScreen.h",
+              "RelativeDocumentMoniker": "Library-Management-System (LMS)\\WelcomeScreen.h",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\WelcomeScreen.h",
+              "RelativeToolTip": "Library-Management-System (LMS)\\WelcomeScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-22T03:41:24.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Start.h",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\Start.h",
+              "RelativeDocumentMoniker": "Library-Management-System (LMS)\\Start.h",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\Start.h",
+              "RelativeToolTip": "Library-Management-System (LMS)\\Start.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-22T03:41:15.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Screen.h",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\Screen.h",
+              "RelativeDocumentMoniker": "Library-Management-System (LMS)\\Screen.h",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\Screen.h",
+              "RelativeToolTip": "Library-Management-System (LMS)\\Screen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-22T03:41:06.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainMenuScreen.h",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\MainMenuScreen.h",
+              "RelativeDocumentMoniker": "Library-Management-System (LMS)\\MainMenuScreen.h",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\MainMenuScreen.h",
+              "RelativeToolTip": "Library-Management-System (LMS)\\MainMenuScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-22T03:40:54.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartScreen.h",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\CartScreen.h",
+              "RelativeDocumentMoniker": "Library-Management-System (LMS)\\CartScreen.h",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\CartScreen.h*",
+              "RelativeToolTip": "Library-Management-System (LMS)\\CartScreen.h*",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAIYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-22T03:40:26.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginAndSignUpScreen.h",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\LoginAndSignUpScreen.h",
+              "RelativeDocumentMoniker": "Library-Management-System (LMS)\\LoginAndSignUpScreen.h",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\LoginAndSignUpScreen.h",
+              "RelativeToolTip": "Library-Management-System (LMS)\\LoginAndSignUpScreen.h",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-22T03:40:46.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminDashboardScreen.h",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\AdminDashboardScreen.h",
+              "RelativeDocumentMoniker": "Library-Management-System (LMS)\\AdminDashboardScreen.h",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\My Projects\\Library-Management-System (LMS)\\Library-Management-System (LMS)\\AdminDashboardScreen.h",
+              "RelativeToolTip": "Library-Management-System (LMS)\\AdminDashboardScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-22T03:40:38.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
